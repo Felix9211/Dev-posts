@@ -1,4 +1,5 @@
-#How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.
+##How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.
+
 ####Introduction
 We are living in a world where data is widespread amongst us. The data is thus represented for easier visualization and interpretation by the masses. This entails either organizations or institutions and thereby Microsoft power bi comes handy in ensuring `data cleaning` is done on raw messy data and transformed into detailed and clean visual representations on dashboards.
 
